@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog de Mario</title>
+    <link>https://blog-mario.onrender.com/</link>
+    <description>Recent content on Blog de Mario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Nov 2023 11:00:56 +0100</lastBuildDate><atom:link href="https://blog-mario.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba</title>
+      <link>https://blog-mario.onrender.com/prueba/</link>
+      <pubDate>Thu, 09 Nov 2023 11:00:56 +0100</pubDate>
+      
+      <guid>https://blog-mario.onrender.com/prueba/</guid>
+      <description>Esto es una prueba</description>
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>https://blog-mario.onrender.com/sobre-mi/</link>
+      <pubDate>Thu, 09 Nov 2023 10:44:50 +0100</pubDate>
+      
+      <guid>https://blog-mario.onrender.com/sobre-mi/</guid>
+      <description>Información del Administrador Hola, soy Mario.
+Soy una persona tranquila, nerviosa e insegura. Mis aficiones son:
+-Jugar videojuegos -Leer libros -Aprender informatica En estos momentos me encuentro realizando 2º ASIR, espero acabarlo y continuar con mi formación.</description>
+    </item>
+    
+    <item>
+      <title>Apartado1</title>
+      <link>https://blog-mario.onrender.com/apartado1/</link>
+      <pubDate>Tue, 07 Nov 2023 09:53:18 +0100</pubDate>
+      
+      <guid>https://blog-mario.onrender.com/apartado1/</guid>
+      <description>Titulo Principal Crear Titulos.
+Título de nivel 1 Título de nivel 2 Título de nivel 3 Otra Subseccion Crear Listas.
+Lista de elementos Otro elemento de lista Y otro más Lista numerada Otro elemento numerado Parrafo Esto es un parrafo
+Como puedes ver lo es
+Enlaces Enlaces a sitios web. Este es un enlace a Google.
+Imágenes También puedes insertar imágenes en tu documento Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://blog-mario.onrender.com/contacto/</link>
+      <pubDate>Tue, 07 Nov 2023 08:57:49 +0100</pubDate>
+      
+      <guid>https://blog-mario.onrender.com/contacto/</guid>
+      <description>Información de Contacto Puedes ponerte en contacto con nosotros de diversas maneras. ¡Estamos aquí para ayudarte!
+Correo Electrónico Si prefieres enviar un correo electrónico, puedes escribirnos a mzaygar034@gmail.com.
+Redes Sociales También puedes seguirnos en las redes sociales:
+GitHub Twitter Instagram ¡Esperamos atenderte!</description>
+    </item>
+    
+  </channel>
+</rss>
