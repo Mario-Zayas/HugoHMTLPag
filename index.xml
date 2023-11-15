@@ -6,7 +6,16 @@
     <description>Recent content on Blog de Mario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 11:00:56 +0100</lastBuildDate><atom:link href="https://blog-mario.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 19:23:59 +0100</lastBuildDate><atom:link href="https://blog-mario.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PruebaScript</title>
+      <link>https://blog-mario.onrender.com/pruebascript/</link>
+      <pubDate>Wed, 15 Nov 2023 19:23:59 +0100</pubDate>
+      
+      <guid>https://blog-mario.onrender.com/pruebascript/</guid>
+      <description>Prueba de realizacion del script</description>
+    </item>
+    
     <item>
       <title>Prueba</title>
       <link>https://blog-mario.onrender.com/prueba/</link>
