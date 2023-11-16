@@ -6,7 +6,16 @@
     <description>Recent content on Blog de Mario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 19:23:59 +0100</lastBuildDate><atom:link href="https://blog-mario.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 08:57:01 +0100</lastBuildDate><atom:link href="https://blog-mario.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examen</title>
+      <link>https://blog-mario.onrender.com/examen/</link>
+      <pubDate>Thu, 16 Nov 2023 08:57:01 +0100</pubDate>
+      
+      <guid>https://blog-mario.onrender.com/examen/</guid>
+      <description>Prueba: Introducción a la implantación de aplicaciones web Mario Zayas García</description>
+    </item>
+    
     <item>
       <title>PruebaScript</title>
       <link>https://blog-mario.onrender.com/pruebascript/</link>
